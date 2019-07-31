@@ -1,2 +1,3 @@
-# tester
-To test functionalities of Github
+# Learning Git
+
+Following [this](https://www.learnenough.com/git-tutorial/) tutorial!
